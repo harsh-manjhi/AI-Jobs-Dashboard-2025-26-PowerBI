@@ -57,8 +57,8 @@ Senior Role % = DIVIDE(COUNTROWS(FILTER('ai_jobs_market_2025_2026', 'ai_jobs_mar
 | File | Description |
 |------|-------------|
 | `ai_jobs_market_2025_2026.csv` | Raw dataset used for analysis |
-| `AI_Workforce_Pulse.pbix` | Power BI dashboard file |
-| `AI_Workforce_Pulse_Harsh_Manjhi.pdf` | Project presentation (PDF) |
+| `powerbi_project_aicte_internship_h.pbix` | Power BI dashboard file |
+| `MS Elevate AICTE Internship - Project Presentation.pdf` | Project presentation (PDF) |
 
 ---
 
